@@ -1,0 +1,125 @@
+/* Remove extra top padding from the navbar */
+.navbar {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  min-height: 64px;
+}
+/* Maximize navbar logo size, remove padding/margin, and vertically center align */
+.navbar__brand {
+  padding: 0 !important;
+  margin: 0 !important;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.navbar__logo {
+  padding: 0 !important;
+  margin: 0 !important;
+  height: 64px !important; /* typical navbar height, adjust if your navbar is taller */
+  width: auto !important;
+  max-height: 64px !important;
+  max-width: none !important;
+  object-fit: contain;
+  display: block;
+  align-self: center;
+}
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #5070f9;
+  --ifm-color-primary-dark: #4663db;
+  --ifm-color-primary-darker: #3d58c1;
+  --ifm-color-primary-darkest: #3247a3;
+  --ifm-color-primary-light: #6984fa;
+  --ifm-color-primary-lighter: #8297fb;
+  --ifm-color-primary-lightest: #aab7fd;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.05);
+}
+
+/* For readability improvements */
+.markdown > h2 {
+  --ifm-h2-font-size: 2rem;
+}
+
+.markdown > h3 {
+  --ifm-h3-font-size: 1.5rem;
+}
+
+/* Custom styling for tables */
+.markdown table {
+  display: table;
+  width: 100%;
+}
+
+.markdown table th,
+.markdown table td {
+  border: 1px solid var(--ifm-table-border-color);
+  padding: 0.75rem;
+}
+
+/* Dark theme adjustments */
+[data-theme="dark"] {
+  --ifm-color-primary: #5070f9;
+  --ifm-color-primary-dark: #4663db;
+  --ifm-color-primary-darker: #3d58c1;
+  --ifm-color-primary-darkest: #3247a3;
+  --ifm-color-primary-light: #6984fa;
+  --ifm-color-primary-lighter: #8297fb;
+  --ifm-color-primary-lightest: #aab7fd;
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.05);
+}
+
+/* Custom styling for feature callouts */
+.feature-callout {
+  background: var(--ifm-color-emphasis-100);
+  border-left: 4px solid var(--ifm-color-primary);
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 0 4px 4px 0;
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+  .markdown table {
+    font-size: 0.875rem;
+  }
+
+  .markdown table th,
+  .markdown table td {
+    padding: 0.5rem;
+  }
+}
+.footer {
+  background: linear-gradient(135deg, #5070f9 75%, #00ffff 100%);
+  background-size: 200% 200%;
+  animation: footerGradientShift 5s ease-in-out infinite;
+  color: white;
+}
+
+.footer a {
+  color: white;
+  transition: color 1s ease;
+}
+
+.footer a:hover {
+  color: #ccfaff;
+}
+
+/* 👇 Keyframes for a smooth shifting gradient effect */
+@keyframes footerGradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
