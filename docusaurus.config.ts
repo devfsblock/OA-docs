@@ -56,7 +56,7 @@ const config: Config = {
           type: "doc",
           docId: "getting-started/introduction",
           position: "left",
-          label: "Documentation",
+          label: "OanicAI Documentation",
         },
       ],
     },
