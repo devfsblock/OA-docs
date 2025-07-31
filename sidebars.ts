@@ -42,7 +42,7 @@ const sidebars: SidebarsConfig = {
       type: "category",
       label: "Roadmap",
       collapsed: false,
-      items: ["roadmap/roadmap"],
+      items: ["roadmaps/roadmap"],
     },
 
     // Conclusion

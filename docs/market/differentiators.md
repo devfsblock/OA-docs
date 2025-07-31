@@ -181,4 +181,4 @@ OANICAI's unique combination of features and its commitment to decentralization 
 
 This comprehensive approach ensures that OANICAI is not just another data labeling platform, but a transformative force that will reshape how we think about data, ownership, and value creation in the AI era.
 
-**Next**: Explore our [Roadmap](../roadmap/roadmap) to see how we plan to achieve these ambitious goals.
+**Next**: Explore our [Roadmap](../roadmaps/roadmap) to see how we plan to achieve these ambitious goals.
