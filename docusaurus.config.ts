@@ -31,7 +31,7 @@ const config: Config = {
         docs: {
           routeBasePath: "/", // This serves docs at the root
           sidebarPath: "./sidebars.ts",
-          editUrl: "https://github.com/oanicai/oanicai-docs/tree/main/",
+      //    editUrl: "https://github.com/oanicai/oanicai-docs/tree/main/",
         },
         blog: false,
         theme: {
