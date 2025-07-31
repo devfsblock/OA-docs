@@ -77,16 +77,5 @@ The integration of BNB Greenfield into OANICAI creates a seamless and secure dat
 - **Ownership Claims**: With the NFT acting as a verifiable claim of ownership and access rights
 - **Royalty Management**: Smart contracts can manage ongoing royalties and licensing
 
-## Technical Architecture
 
-### Storage Infrastructure
 
-```mermaid
-graph TD
-    A[Data Submitter] --> B[OANICAI Platform]
-    B --> C[BNB Greenfield Storage]
-    C --> D[Distributed Storage Nodes]
-    B --> E[Blockchain Record]
-    F[Labelers] --> B
-    G[Validators] --> B
-    H[NFT Marketplace] --> C
