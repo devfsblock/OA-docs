@@ -17,7 +17,7 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Platform",
-      collapsed: false,
+      collapsed: true,
       items: ["platform/solution-overview", "platform/core-features", "platform/key-innovations"],
     },
 
@@ -25,7 +25,7 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Technology",
-      collapsed: false,
+      collapsed: true,
       items: ["technology/tokenomics", "technology/decentralized-storage"],
     },
 
@@ -33,7 +33,7 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Market",
-      collapsed: false,
+      collapsed: true,
       items: ["market/niche-focus-areas", "market/differentiators"],
     },
 
@@ -41,7 +41,7 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Roadmap",
-      collapsed: false,
+      collapsed: true,
       items: ["roadmaps/roadmap"],
     },
 
