@@ -165,7 +165,7 @@ Together, we can unlock the full potential of AI and create a world where data i
 - **Sustainable Growth**: Building for long-term success and stability
 - **Global Impact**: Creating positive change worldwide
 
-## Call to Action
+## Contact us
 
 The future of AI depends on high-quality data, and the future of data labeling is decentralized, intelligent, and community-driven. OANICAI is not just building a platform; we're building a movement.
 
