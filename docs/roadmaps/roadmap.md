@@ -13,8 +13,8 @@ The foundation phase focuses on establishing the core platform and building an i
 
 ### Key Milestones
 
-#### Launch on BNB Chain
-- **Platform Deployment**: The initial launch of the OANICAI platform on the BNB Chain
+#### Launch 
+- **Platform Deployment**: The initial launch of the OANICAI platform on a scalable, low-cost blockchain infrastructure.
 - **Scalable Environment**: Providing a scalable and low-cost environment for our initial users
 - **Smart Contract Deployment**: Core smart contracts for payments, validation, and governance
 
@@ -59,9 +59,9 @@ The expansion phase focuses on broadening platform capabilities and introducing 
 ### Key Milestones
 
 #### Launch on Ethereum
-- **Multi-Chain Support**: Expanding our reach by launching the OANICAI platform on the Ethereum network
+- **Multi-Chain Support**: Expanding our reach through multi-chain deployment of the OANICAI platform
 - **Cross-Chain Compatibility**: Enabling cross-chain compatibility and access to a broader user base
-- **Bridge Integration**: Seamless token transfers between BNB Chain and Ethereum
+- **Bridge Integration**: Seamless movement of assets across multiple blockchain networks
 
 #### AI Integration (Beta)
 - **Pre-labeling System**: The beta launch of our AI-powered pre-labeling features

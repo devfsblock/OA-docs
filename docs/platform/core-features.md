@@ -30,7 +30,7 @@ The Submitter Interface is the gateway for individuals and companies seeking hig
 #### File Management and Export
 - **Easy Export**: Once validation is complete and the data is finalized, submitters can easily export their labeled datasets
 - **Multiple Formats**: Support for various industry-standard formats
-- **Secure Storage**: The decentralized storage on BNB Greenfield ensures secure and efficient file retrieval
+- **Secure Storage**: The decentralized storage ensures secure and efficient file retrieval
 
 #### Communication Channel
 - **Direct Interaction**: A built-in communication system allows direct interaction with labelers and validators

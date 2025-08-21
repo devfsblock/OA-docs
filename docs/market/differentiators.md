@@ -84,7 +84,7 @@ The OANICAI NFT Dataset Marketplace is a groundbreaking innovation that transfor
 
 ## 5. Decentralized Storage Integration
 
-Our integration with BNB Greenfield for decentralized storage is a key technical differentiator.
+Our integration for decentralized storage is a key technical differentiator.
 
 ### True Data Ownership
 - **User Control**: Users retain full control over their data
@@ -97,7 +97,7 @@ Our integration with BNB Greenfield for decentralized storage is a key technical
 - **Tamper Resistance**: Immutable storage with cryptographic verification
 
 ### Cost-Effectiveness
-- **Lower Costs**: BNB Greenfield offers a highly cost-effective storage solution
+- **Lower Costs**: Decentralized storage offers a highly cost-effective storage solution
 - **Competitive Pricing**: Allowing us to provide competitive pricing to our clients
 - **Scalable Economics**: Cost-effective scaling for large datasets
 

@@ -48,8 +48,8 @@ const config: Config = {
    logo: {
   alt: "OANICAI Logo",
   src: "img/logo.svg",
-  width: 80,  // Increased size
-  height: 80, // Increased size
+  width: 100,  // Increased size
+  height: 100, // Increased size
 },
       items: [
         {
@@ -68,15 +68,42 @@ const config: Config = {
             {
               label: "Getting Started",
               to: "/getting-started/introduction",
+            },  
+            {
+              label: "Problem Statement",
+              to: "/getting-started/problem-statement",
             },
-            // {
-            //   label: "Platform Overview",
-            //   to: "/platform/solution-overview",
-            // },
-            // {
-            //   label: "Tokenomics",
-            //   to: "/technology/tokenomics",
-            // },
+            {
+              label: "Solution Overview",
+              to: "/platform/solution-overview",
+            },
+            {
+              label: "Solution Overview",
+              to: "/platform/core-features",
+            },
+            
+          ],
+        },
+          {
+          title: "More",
+          items: [
+           {
+              label: "Key Innovations",
+              to: "/platform/key-innovations",
+            },
+            
+            {
+              label: "Tokenomics",
+               to:"/technology/tokenomics",
+            },
+            {
+              label: "Niche Focus Areas",
+               to: "/market/niche-focus-areas",
+            },
+              {
+              label: "Market Differentiators",
+              to: "/market/differentiators",
+            },
           ],
         },
         {
@@ -97,23 +124,7 @@ const config: Config = {
             
           ],
         },
-  //  {
-  //         title: "More",
-  //         items: [
-  //           {
-  //             label: "Website",
-  //             href: "https://oanicai.com",
-  //           },
-  //           {
-  //             label: "GitHub",
-  //             href: "https://github.com/oanicai",
-  //           },
-  //           {
-  //             label: "Whitepaper",
-  //             href: "https://oanicai.com/whitepaper.pdf",
-  //           },
-  //         ],
-  //       },
+ 
       ],
       copyright: `Copyright © ${new Date().getFullYear()} OANICAI.`,
     },

@@ -192,8 +192,8 @@ The allocation and vesting schedule of OANIC tokens are designed to ensure long-
 - Automatic distribution based on predetermined schedules
 - Emergency mechanisms only accessible through DAO governance
 
-By meticulously integrating these tokenomics principles, OANICAI creates a self-sustaining, value-accreting ecosystem where the OANIC token serves as more than just a medium of exchange—it becomes a fundamental component of participation, governance, and long-term value creation in the future of AI data labeling.
+By meticulously integrating these tokenomics principles, OANICAI creates a self-sustaining, value-accreting ecosystem where the OANIC token serves as more than just a medium of exchange. It becomes a fundamental component of participation, governance, and long-term value creation in the future of AI data labeling.
 
 ---
 
-**Next**: Learn about our [Decentralized Storage](../technology/decentralized-storage.md) infrastructure built on BNB Greenfield.
+**Next**: Learn about our [Decentralized Storage](../technology/decentralized-storage.md) infrastructure.

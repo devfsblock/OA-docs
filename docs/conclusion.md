@@ -50,7 +50,7 @@ Our unique differentiators position us as leaders in the data labeling market:
 - **Decentralized Architecture**: Blockchain-based transparency and security
 - **Learn-to-Earn Academy**: Unique educational and earning platform
 - **NFT Dataset Marketplace**: Revolutionary data monetization model
-- **Decentralized Storage**: True data ownership through BNB Greenfield
+- **Decentralized Storage**: True data ownership through a secure, distributed storage layer
 
 ### Competitive Advantages
 Unlike traditional centralized platforms, OANICAI offers:
@@ -63,7 +63,7 @@ Unlike traditional centralized platforms, OANICAI offers:
 ## Strategic Vision
 
 ### Short-Term Goals (2025-2026)
-- **Platform Launch**: Successful deployment on BNB Chain and Ethereum
+- **Platform Launch**: Successful deployment across multiple blockchain ecosystems
 - **Community Building**: Growing a vibrant, engaged user base
 - **Feature Development**: Rolling out core functionalities and AI integration
 - **Market Penetration**: Establishing presence in key niche areas

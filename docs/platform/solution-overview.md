@@ -12,7 +12,7 @@ At the core of OANICAI is a decentralized workflow that ensures data ownership, 
 
 ### Key Benefits
 
-- **True Data Ownership**: By utilizing decentralized storage solutions like BNB Greenfield, OANICAI ensures that data submitters retain true ownership of their data. All interchanged files between submitters, labelers, and validators are stored immutably, providing an auditable trail and enhanced security.
+- **True Data Ownership**: By utilizing decentralized storage solutions, OANICAI ensures that data submitters retain true ownership of their data. All interchanged files between submitters, labelers, and validators are stored immutably, providing an auditable trail and enhanced security.
 
 - **Trustless Workflows**: Smart contracts automate and enforce the rules of engagement for data labeling and validation, eliminating the need for intermediaries and fostering trust among disparate parties. This ensures fair compensation for labelers and validators, and guaranteed delivery for submitters.
 
