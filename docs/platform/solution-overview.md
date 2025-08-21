@@ -2,7 +2,7 @@
 title: Solution Overview
 ---
 
-# A Decentralized Ecosystem for Data Intelligence
+# ![OanicAI](./solution.jpg)
 
 OANICAI is engineered as a holistic ecosystem that addresses the multifaceted challenges of data labeling by integrating cutting-edge blockchain technology, artificial intelligence, and a human-centric learn-to-earn model. Our solution is built upon principles of decentralization, transparency, quality assurance, and economic empowerment, creating a robust and sustainable infrastructure for the future of AI data.
 

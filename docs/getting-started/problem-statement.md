@@ -2,8 +2,7 @@
 title: Problem Statement
 ---
 
-# Bottlenecks in the Data Labeling Landscape
-
+# ![OanicAI](./docs3-01.jpg)
 The rapid advancement of Artificial Intelligence and Machine Learning (AI/ML) has created an insatiable demand for high-quality, accurately labeled datasets. These datasets are the foundational bedrock upon which AI models are trained, validated, and refined. However, the current data labeling ecosystem is plagued by several significant challenges that hinder the progress and scalability of AI development.
 
 ## 1. Centralization and Lack of Transparency
