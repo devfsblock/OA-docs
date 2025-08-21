@@ -2,7 +2,7 @@
 title: Core Features
 ---
 
-# Core Features: A Detailed Overview of the OANICAI Platform
+# A Detailed Overview of the OANICAI Platform
 
 OANICAI's platform is designed with distinct interfaces and functionalities tailored to the needs of its diverse user base: submitters, labelers, and validators. Each interface is optimized for specific workflows while maintaining seamless integration across the entire ecosystem.
 

@@ -2,7 +2,7 @@
 title: Decentralized Storage
 ---
 
-# Decentralized Storage: The Foundation of Trust and Ownership
+# The Foundation of Trust and Ownership
 
 OANICAI's commitment to decentralization, transparency, and true data ownership is fundamentally underpinned by its integration with a next-generation decentralized storage layer. This strategic choice provides a robust foundation for the entire OANICAI ecosystem, ensuring that all interchanged files, from raw data submitted by clients to labeled datasets and validation reports, are stored securely, immutably, and with verifiable ownership.
 

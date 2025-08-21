@@ -2,7 +2,7 @@
 title: Niche Focus Areas
 ---
 
-# Niche Focus Areas: Powering Specialized AI Innovation
+# Powering Specialized AI Innovation
 
 While OANICAI is a versatile platform capable of handling a wide range of data labeling tasks, we believe that a focused approach on key, high-growth industries allows us to provide deeper value and more specialized solutions. Our initial focus is on six critical niches where high-quality labeled data is paramount for innovation and progress.
 

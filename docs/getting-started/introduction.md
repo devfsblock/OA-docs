@@ -3,6 +3,8 @@ id: introduction
 title: Introduction
 ---
 
+# ![Codatta](./docs3-01.jpg)
+
 # The Data Imperative in the Age of AI
 
 Artificial Intelligence (AI) is rapidly transforming every facet of modern life, from healthcare diagnostics to autonomous transportation and financial markets. The efficacy and reliability of AI systems are, however, fundamentally dependent on the quality and quantity of the data used to train them.

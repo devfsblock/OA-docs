@@ -2,7 +2,7 @@
 title: Development Roadmap
 ---
 
-# Roadmap: Charting the Course for Future Growth
+# Charting the Course for Future Growth
 
 OANICAI has a clear and ambitious roadmap for future development, designed to continuously enhance our platform, expand our ecosystem, and solidify our position as a leader in the data labeling industry. Our roadmap is divided into key phases, each with specific milestones and objectives.
 
