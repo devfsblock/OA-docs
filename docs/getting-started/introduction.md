@@ -3,7 +3,7 @@ id: introduction
 title: Introduction
 ---
 
-# ![Codatta](./docs3-01.jpg)
+# ![Codatta](./docs2-01.jpg)
 
 # The Data Imperative in the Age of AI
 
