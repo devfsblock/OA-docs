@@ -33,7 +33,6 @@ The Submitter Interface is the gateway for individuals and companies seeking hig
 - **Secure Storage**: The decentralized storage ensures secure and efficient file retrieval
 
 #### Communication Channel
-- **Direct Interaction**: A built-in communication system allows direct interaction with labelers and validators
 - **Feedback Loop**: Facilitate clarifications, feedback, and project adjustments
 - **Real-time Updates**: Stay informed about project developments
 
@@ -45,15 +44,11 @@ The Labeler Dashboard is the central hub for annotators to find, execute, and ma
 
 #### Work Discovery and Selection
 - **Project Browser**: Labelers can browse a wide array of available labeling projects
-- **Smart Filtering**: Filter by data type, complexity, required skills, and potential earnings
 - **Skill Matching**: Choose work that aligns with your expertise and interests
 
 #### Intuitive Labeling Tools
 - **Advanced Tool Suite**: The dashboard provides a suite of advanced, user-friendly labeling tools
 - **Multi-modal Support**: Tailored tools for different data modalities:
-  - **Images**: Bounding boxes, polygons, semantic segmentation
-  - **Audio**: Transcription and timestamping
-  - **Text**: Named entity recognition and classification
 - **Efficiency Focused**: Tools designed to maximize efficiency and accuracy
 
 #### Specialized Domain Tasks
@@ -137,9 +132,5 @@ The Validator Dashboard is designed for experienced and qualified individuals re
 - **Payment Processing**: Seamless token-based payment system
 - **Staking Benefits**: Additional benefits for token stakers
 
-### Communication Tools
-- **Messaging System**: Built-in messaging for all user types
-- **Notification Center**: Real-time notifications for important updates
-- **Support Integration**: Direct access to customer support
 
 **Next**: Learn about our [Key Innovations](./key-innovations) including the Learn-to-Earn Academy, AI Integration, and NFT Marketplace.
