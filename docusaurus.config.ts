@@ -77,9 +77,9 @@ const config: Config = {
               label: "Solution Overview",
               to: "/platform/solution-overview",
             },
-            {
-              label: "Solution Overview",
-              to: "/platform/core-features",
+             {
+              label: "Key Innovations",
+              to: "/platform/key-innovations",
             },
             
           ],
@@ -87,10 +87,10 @@ const config: Config = {
           {
           title: "More",
           items: [
-           {
-              label: "Key Innovations",
-              to: "/platform/key-innovations",
-            },
+         {
+              label: "Core Features",
+              to: "/platform/core-features",
+            }, 
             
             {
               label: "Tokenomics",
