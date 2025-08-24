@@ -53,8 +53,26 @@ The Labeler Dashboard is the central hub for annotators to find, execute, and ma
 - **Multi-modal Support**: Tailored tools for different data modalities:
   - **Images**: Bounding boxes, polygons, semantic segmentation
   - **Audio**: Transcription and timestamping
-  - **Text**: Named entity recognition
+  - **Text**: Named entity recognition and classification
 - **Efficiency Focused**: Tools designed to maximize efficiency and accuracy
+
+#### Specialized Domain Tasks
+OANICAI goes beyond basic annotation by offering specialized tasks that reflect real-world industry demand. These modules provide hands-on opportunities for labelers to contribute to high-value datasets:
+
+- **Named Entity Recognition in Healthcare**:  
+  A long-text input interface where labelers can highlight diseases, drugs, and symptoms in clinical notes or research articles. This creates structured data that supports medical AI applications.
+
+- **Image Research in Crypto and DeFi**:  
+  Labelers review blockchain screenshots, such as wallet or transaction records, and determine if suspicious activity is present. External research through tools like Etherscan or BscScan may be required, with responses captured as simple Yes or No answers.
+
+- **Text Classification for Crypto Content**:  
+  Short blurbs from platforms like Twitter, Telegram, or Discord are presented, and labelers classify them as scam or legitimate, or evaluate sentiment as positive or negative. These annotations feed into fraud detection and sentiment analysis models.
+
+- **Relation Extraction in Finance and Fraud**:  
+  A text reader allows labelers to highlight two entities, such as a person and a company, and assign their relationship (e.g., “owned by”, “transferred funds to”). These structured links help map fraud networks and financial dependencies.
+
+- **Additional High-Demand Tasks**:  
+  Lightweight but impactful labeling projects are also available, including fake news detection, spam and phishing email tagging, review sentiment analysis, product categorization, and toxic comment labeling. These tasks are simple to perform but critical for training robust AI systems.
 
 #### Real-time Feedback and Guidance
 - **Instant Feedback**: During the labeling process, labelers receive real-time feedback based on instructions
